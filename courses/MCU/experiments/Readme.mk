@@ -3,3 +3,5 @@
 - Experiment 2.docx
 - Experiment 3.docx
 - Experiment 4.docx
+- Some tutorials, including:
+   - Tutorials for Parallel IO Programming.docx
